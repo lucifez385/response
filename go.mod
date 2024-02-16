@@ -1,4 +1,4 @@
-module gitlab.thinknet.co.th/techforum/go/utils/response
+module gitlab.thinknet.co.th/watchapon/response
 
 go 1.21.0
 
