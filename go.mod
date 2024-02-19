@@ -1,4 +1,4 @@
-module gitlab.thinknet.co.th/watchapon/response
+module github.com/lucifez385/response
 
 go 1.21.0
 
