@@ -2,7 +2,7 @@
 
 ## Install
 ```command
-go get gitlab.thinknet.co.th/watchapon/response
+go get github.com/lucifez385/response
 ```
 
 ## How to use
@@ -10,7 +10,7 @@ go get gitlab.thinknet.co.th/watchapon/response
 ```golang
 package main
 
-import "gitlab.thinknet.co.th/watchapon/response"
+import "github.com/lucifez385/response"
 
 func Simple(c context) error {
     status, resData := response.InternalServerError("")
